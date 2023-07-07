@@ -1,3 +1,4 @@
 I am Bryan.
 I am from Ecuador.
 I am 21 years old.
+I am studying Software.
